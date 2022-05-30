@@ -1,0 +1,79 @@
+
+    POST("auth/login")
+    Call<LoginResponse> userlogin(
+            @Field("account") String account,
+            @Field("password") String password
+    );
+
+    GET("app-search-customer")
+    Call<List<shClientData>> searchcustomer(
+            @Query("customer_name") String customer_name,
+            @Query("token") String token
+    );
+
+    GET("app-search-customer")
+    Observable<List<shClientData>> searchcustomer1(
+            @Query("customer_name") String customer_name,
+            @Query("token") String token
+    );
+
+    GET("app-search-mo")
+    Observable<List<shMoManufacture>> MoManufacture(
+            @Query("mo_id") String mo_id,
+            @Query("token") String token
+    );
+
+    GET("app-search-so")
+    Observable<List<shSaleOrder>> SoSaleOrder(
+            @Query("so_id") String so_id,
+            @Query("token") String token
+    );
+
+    GET("get-now-manufacture")
+    Observable<List<GetNowManuData>> GetNowManufacture(
+            @Query("token") String token,
+            @Query("manufacture") String manufacture,
+            @Query("customer") String customer,
+            @Query("online_date") String online_date,
+            @Query("sale_order") String sale_order,
+            @Query("routing_level") String routing_level
+    );
+
+    GET("get-now-manufacture")
+    Observable<List<ResultMoData>> ResultMo(
+            @Query("token") String token,
+            @Query("manufacture") String manufacture,
+            @Query("customer") String customer,
+            @Query("online_date") String online_date,
+            @Query("sale_order") String sale_order,
+            @Query("routing_level") String routing_level
+    );
+
+    GET("get-prev-manufacture")
+    Observable<List<GetPreManuData>> GetPreManu(
+            @Query("token") String token,
+            @Query("so_id") String so_id,
+            @Query("item_id") String item_id
+    );
+
+    GET("get-next-part")
+    Observable<List<GetNextPartData>> GetNextPart(
+            @Query("sale_order") String sale_order,
+            @Query("id") String id ,
+            @Query("token") String token
+    );
+
+    GET("get-so-data")
+    Observable<GetSoDataData> GetSoData(
+            @Query("sale_order") String sale_order,
+            @Query("item") String item ,
+            @Query("token") String token
+    );
+
+    GET("get-sale-order")
+    Observable<List<GetSaleOrderData>> Getsaleorder(
+            @Query("sale_order") String sale_order,
+            @Query("customer") String customer,
+            @Query("online_date") String online_date,
+            @Query("token") String token
+    );

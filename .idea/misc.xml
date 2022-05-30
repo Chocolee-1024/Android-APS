@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Git/APS/app/src/main/res/drawable/dash_h_line.xml" value="0.2285" />
+        <entry key="..\:/Git/APS/app/src/main/res/drawable/dash_v_line.xml" value="0.2285" />
+        <entry key="..\:/Git/APS/app/src/main/res/drawable/dasu_line.xml" value="0.2285" />
+        <entry key="..\:/Git/APS/app/src/main/res/drawable/radiobutton_background.xml" value="0.2285" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/activity_login.xml" value="0.21472663139329806" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/activity_main_menu.xml" value="0.21472663139329806" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/activity_setting.xml" value="0.21472663139329806" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/activity_table.xml" value="0.25" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/activity_table_query.xml" value="0.4" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/base_title.xml" value="0.21472663139329806" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/base_title_back.xml" value="0.21472663139329806" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/derails_recyclerview.xml" value="0.264" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/details_a.xml" value="0.4" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/details_b.xml" value="0.4" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/fragment_schedule_of_the_day.xml" value="0.21472663139329806" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/fragment_table.xml" value="0.1" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/order_detail.xml" value="0.4" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/schedule_of_the_day_recyclerview_item.xml" value="0.264" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/table_recyclerview.xml" value="0.21472663139329806" />
+        <entry key="..\:/Git/APS/app/src/main/res/layout-land/table_recyclerview_item.xml" value="0.4" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable-v24/radiobutton_textcolor.xml" value="0.123" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/background.xml" value="0.8" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/black.xml" value="0.2265" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.1235" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/radiobutton_background.xml" value="0.2265" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/radiobutton_background_checked.xml" value="0.2265" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/radiobutton_background_unchecked.xml" value="0.2265" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/radiobutton_textcolor.xml" value="0.2265" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/radiobutton_textcolor_checked.xml" value="0.2265" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/drawable/radiobutton_textcolor_unchecked.xml" value="0.2265" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/activity_login.xml" value="0.21472663139329806" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/activity_main_menu.xml" value="0.21472663139329806" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/activity_setting.xml" value="0.264" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/activity_table.xml" value="0.2" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/activity_table_query.xml" value="0.264" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/activity_table_query_acivity.xml" value="0.21472663139329806" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/base_title.xml" value="0.264" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/base_title_back.xml" value="0.21472663139329806" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/details_a.xml" value="0.264" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/details_b.xml" value="0.264" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/fragment_production_schedule.xml" value="0.21472663139329806" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/fragment_schedule_of_the_day.xml" value="0.21472663139329806" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/fragment_table.xml" value="0.21472663139329806" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/schedule_of_the_day_recyclerview_item.xml" value="0.21164021164021163" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/table_recyclerview.xml" value="0.21472663139329806" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout-land/table_recyclerview_item.xml" value="0.25" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/activity_future_table_query_acivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/activity_main_menu.xml" value="0.25" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/activity_production_schedule.xml" value="0.22826086956521738" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/activity_setting.xml" value="0.2" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/activity_table.xml" value="0.2" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/activity_table_query_acivity.xml" value="0.25364583333333335" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/activity_table_query_recyclerview.xml" value="0.25364583333333335" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/base_title.xml" value="0.22826086956521738" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/base_title_back.xml" value="0.2" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/details_a.xml" value="0.4" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/fragment_future_table_query.xml" value="0.16799999999999998" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/fragment_future_table_query_recyclerview.xml" value="0.22826086956521738" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/fragment_newsletter.xml" value="0.22826086956521738" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/fragment_production_schedule.xml" value="0.25364583333333335" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/fragment_schedule_of_the_day.xml" value="0.25364583333333335" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/fragment_table.xml" value="0.25364583333333335" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/production_schedule.xml" value="0.25364583333333335" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/schedule_of_the_day_recyclerview.xml" value="0.264" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/schedule_of_the_day_recyclerview_item.xml" value="0.1" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/setting.xml" value="0.1" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/table_query_recyclerview.xml" value="0.21784420289855072" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/table_query_recyclerview_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/nutc app/2706/APS/app/src/main/res/layout/table_recyclerview_item.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

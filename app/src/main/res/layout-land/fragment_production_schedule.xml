@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.ProductionScheduleFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/inquirebt"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="3dp"
+            android:layout_weight="1"
+            android:background="#1AB5B9"
+            android:text="進度表查詢"
+            android:textColor="#FFF" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="3dp"
+            android:layout_weight="1"
+            android:background="#1AB5B9"
+            android:text="進度表調整"
+            android:textColor="#FFF" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="3dp"
+            android:layout_weight="1"
+            android:background="#1AB5B9"
+            android:text="報工"
+            android:textColor="#FFF" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="3dp"
+            android:layout_weight="1"
+            android:background="#1AB5B9"
+            android:text="料況查詢"
+            android:textColor="#FFF" />
+
+        <Button
+            android:id="@+id/settingbut"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="3dp"
+            android:layout_weight="1"
+            android:background="#1AB5B9"
+            android:text="設定"
+            android:textColor="#FFF" />
+    </LinearLayout>
+</FrameLayout>
